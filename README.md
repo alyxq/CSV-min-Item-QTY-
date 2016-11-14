@@ -9,7 +9,6 @@ Set minimun quantity for Item A110 on Sales Orders imported via CSV.
 * [Record Broswer](https://system.netsuite.com/help/helpcenter/en_US/srbrowser/Browser2015_2/script/record/account.html)
 * [SuiteScript Objects](https://netsuite.custhelp.com/app/answers/detail/a_id/10285)
 
-
 ## SuiteScript API Version 1.0 
 The main function in **remainingBalance.js**  is calculateTotal() which displays the amount remaining for split vendor bills. 
 
