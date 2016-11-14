@@ -1,6 +1,6 @@
 # CSV-min-Item-QTY-
 <a><img src="http://shopping.netsuite.com/core/media/media.nl?id=1&c=3423663&h=a53782632d930713b9ee" align="left" hspace="10" vspace="6"></a>
-Set minimum quantity for Item A110 
+
 
 ## Resources
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
